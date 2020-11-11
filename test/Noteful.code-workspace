@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../REACT/noteful"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../blogful-api"
+		}
+	],
+	"settings": {}
+}
